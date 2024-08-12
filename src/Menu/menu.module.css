@@ -1,0 +1,13 @@
+.menuList{
+    list-style-type: none;
+    background-color: #dd9f34;
+    padding: 5px;
+    text-align: right;
+    margin: 0px;
+}
+.menuList>li{
+    display: inline;
+    margin-right: 10px;
+    font-size: 15px;
+    color: #fff;
+}
