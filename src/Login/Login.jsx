@@ -60,7 +60,7 @@ import {useDispatch} from "react-redux"
                         </div>
                     </div>
                     <div className="ml-4">
-                    <Image src="/login.png" width={500} height={500} alt="Picture of the author"
+                    <Image src="/images/login.png" width={500} height={500} alt="Picture of the author"
                         />
                     </div>
                 </div>
