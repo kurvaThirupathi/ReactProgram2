@@ -16,7 +16,7 @@ import {useDispatch} from "react-redux"
         }
        const loginView=() =>{
         const {name,pwd}=data; // id values name,pwd
-            console.log(data);
+           // console.log(data);
             if(name==="Thirupathi" && pwd==="thirupathi"){
                // alert("Success");
                //setIsLogged(true);
